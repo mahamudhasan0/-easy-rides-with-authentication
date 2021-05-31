@@ -1,0 +1,76 @@
+.map {
+    height: 400px;
+}
+
+.search-container {
+    margin: 0 auto;
+    padding: 10px 40px 0px 40px;
+}
+
+.search-ride {
+    border: 1px solid grey;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px gray;
+    background-color: rgb(189, 189, 189);
+}
+
+.search-ride label {
+    font-weight: bold;
+}
+
+.search-ride input[type='submit'] {
+    background-color: black;
+    font-weight: bold;
+    padding: 7px 15px;
+    color: white;
+}
+
+.search-ride input {
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+.search-ride button {
+    background-color: rgb(252, 146, 33);
+    color: beige;
+    padding: 10px 20px;
+    margin: 10px;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.search-result {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.search-result h3 {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.ride-details {
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 20px 10px;
+    box-shadow: 5px 5px 10px gray;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ride-details p {
+    font-weight: bold;
+}
+
+.ride-details img {
+    width: 50px;
+}
