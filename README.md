@@ -1,4 +1,4 @@
-*Website Description:
+<h1>Easy Rides</h1>
 
 <p>UI show the catagory of rides such like Bus,Train,Bike,Car<p>
 <p>User can select any rides which we provide</p>

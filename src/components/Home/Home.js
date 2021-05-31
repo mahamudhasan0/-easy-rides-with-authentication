@@ -10,7 +10,7 @@ const Home = () => {
         <div className="container home-container">
             <Header></Header>
             <div className="home">
-                <h3 className="text-center">Welcome To Travel Ride</h3>
+                <h3 className="text-center">Welcome To Easy Rides</h3>
                 <h1 className="text-center">You can take a ride of your choice..</h1>
                 <div className="row">
                     {
