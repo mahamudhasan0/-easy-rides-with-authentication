@@ -1,12 +1,3 @@
-# Getting Started with Create React App
-# Create Authentic User Travel Ride Share Website by React
-
-# ✽ EASY RIDES
-# ➢ Feature: Google Auth, Google Map, Create User Account, RideShare
-# ➢ Resource: HTML, CSS, React, React Route, MongoDB, Firebase, Bootstrap, React Font.
-
-# ➢ Website Link: https://ride-9033c.web.app
-
 *Website Description:
 
 <p>UI show the catagory of rides such like Bus,Train,Bike,Car<p>
