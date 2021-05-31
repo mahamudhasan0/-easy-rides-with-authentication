@@ -4,7 +4,7 @@
 # ✽ EASY RIDES
 # ➢ Feature: Google Auth, Google Map, Create User Account, RideShare
 # ➢ Resource: HTML, CSS, React, React Route, MongoDB, Firebase, Bootstrap, React Font.
-# ➢ GitHub Link: https://github.com/nayemk1999/Travel-Ride
+
 # ➢ Website Link: https://ride-9033c.web.app
 
 *Website Description:
